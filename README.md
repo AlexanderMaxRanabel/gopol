@@ -12,7 +12,8 @@ To install gopol, simply run the following command:
 
 Usage
 
-'''package main
+```go
+package main
 
 import (
 	"fmt"
@@ -34,7 +35,7 @@ func main() {
 		}
 		pool.AddTask(task)
 	}
-}'''
+}
 
 Contributing
 
