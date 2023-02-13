@@ -33,8 +33,4 @@ func main() {
 		}
 		pool.AddTask(task)
 	}
-} ```
-
-Contributing
-
-If you would like to contribute to the gopol project, feel free to submit a pull request or open an issue on GitHub. All contributions are welcome!
+} 
