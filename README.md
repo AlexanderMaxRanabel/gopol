@@ -8,12 +8,10 @@ Installation
 
 To install gopol, simply run the following command:
 
-'''go get github.com/AlexanderMaxRanabel/gopol'''
+```go get github.com/AlexanderMaxRanabel/gopol```
 
 Usage
-
-```go
-package main
+```package main
 
 import (
 	"fmt"
@@ -35,7 +33,7 @@ func main() {
 		}
 		pool.AddTask(task)
 	}
-}
+} ```
 
 Contributing
 
